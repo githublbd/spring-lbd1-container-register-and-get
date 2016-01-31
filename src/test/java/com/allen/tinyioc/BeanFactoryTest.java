@@ -20,6 +20,6 @@ public class BeanFactoryTest {
         HelloWorldService helloWorldService = (HelloWorldService) beanFactory.getBean("helloWorldService");
         helloWorldService.helloWorld();
 
-
+		//test ok
     }
 }
