@@ -2,9 +2,6 @@ package com.allen.tinyioc;
 
 import org.junit.Test;
 
-/**
- * @author yihua.huang@dianping.com
- */
 public class BeanFactoryTest {
 
 	@Test

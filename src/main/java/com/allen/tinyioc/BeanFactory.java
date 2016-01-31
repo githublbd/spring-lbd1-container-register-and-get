@@ -3,9 +3,6 @@ package com.allen.tinyioc;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-/**
- * @author yihua.huang@dianping.com
- */
 public class BeanFactory {
 
 	private Map<String, BeanDefinition> beanDefinitionMap = new ConcurrentHashMap<String, BeanDefinition>();
