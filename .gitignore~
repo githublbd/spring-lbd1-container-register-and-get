@@ -1,3 +1,5 @@
 *.idea
 target
 tiny-ioc.iml
+.gitignore~
+*.txt~
